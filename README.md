@@ -33,7 +33,7 @@ Modern classrooms rely on fast internet access, digital learning platforms, and 
 - Patch panel setup and rack organization.  
 - Testing, labeling, and certification for long-term reliability.  
 
-As your **installation partner and service provider**, we make sure every classroom connection runs smoothly—so teachers and students stay connected without interruption.
+As your **installation partner and service provider**, we make sure every classroom connection runs smoothly-so teachers and students stay connected without interruption.
 
 ---
 
@@ -63,6 +63,6 @@ We work as your dedicated **fiber optic cabling service provider and contractor*
 Whether it’s a hospital needing advanced data cabling or a school building its digital network, **J3K Technologies** is your trusted partner in Georgia.  
 As a **cabling service provider for medical centers**, **structured cabling installation partner for schools**, and **fiber optic cabling contractor**, we deliver smart, scalable, and secure infrastructure that powers progress.  
 
-Partner with **J3K Technologies** – Georgia’s trusted **installation partner and contractor** for professional cabling solutions that keep learning and healthcare moving forward.
+Partner with **J3K Technologies**-Georgia’s trusted **installation partner and contractor** for professional cabling solutions that keep learning and healthcare moving forward.
 
 ---
